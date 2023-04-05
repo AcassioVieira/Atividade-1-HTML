@@ -237,7 +237,16 @@ body {
     <p class="um"><font face="Courier New" color="#000000"><h1 align="center"> Acassio Fonseca </h1></font></p>
     
 
-    
-</head><p><a href="https://www.linkedin.com/in/acassiovieira/" target="_blank">Linkedin</a></p>
-<p><a href="https://twitter.com/acassiovf" target="_blank">Twitter</a></p>
+ 
+    <p class="tres"><font face="Courier New" color="#000000"><h1 align="center"> Me siga nas redes sociais: </h1></font></p>
+
+</head>
+<center><p><a href="https://www.linkedin.com/in/acassiovieira/" target="_blank">
+    <img src="../Imagens/Linkedin.png"width="35x" height="35x ">  <alt= "Icon Linkedin">  
+</a></p>
+</center>
+<center><p><a href="https://twitter.com/acassiovf" target="_blank">
+    <img src="../Imagens/Twitter.png"width="40x" height="40x ">  <alt= "Icon Twitter"></alt>
+</a></p>
+</center>
 </header>
