@@ -1,0 +1,82 @@
+<html>
+
+<head>
+    <link href="mamaco.css" rel="stylesheet" type="text/css">
+    <title>Mamaco King</title>
+</head>
+
+<body>
+    <center>
+       
+    </center>
+    <h1>
+        <center>Promoção da Mamaco king
+            <center>
+    </h1>
+    <!--aqui eu declaro minha tabela-->
+    <center>
+        <table>
+            <!--aqui eu tenho a minha primeira linha (TR = table roll)-->
+            <tr>
+               
+<br/>
+
+                <td colspan="5">
+                    <center>Mamako King</center>
+<br/>
+<br/>
+                </td>
+            </tr>
+            <tr>
+                <th>Foto</th>
+                <th>Produto</th>
+                <th>Quantidade</th>
+                <th>Preço</th>
+                <th>Preço Promocional</th>
+            </tr>
+            <tr>
+                <td><img src="../Imagens/caderno.jpeg" alt="Caderno" style="height: 80px;80px"></img>
+                </td>
+                <td>Caderno</td>
+                <td>50</td>
+                <td>2</td>
+                <td>9,90</td>
+            </tr>
+            <!--aquii começa outra linha-->
+            <tr>
+                <td><img src="../Imagens/lapis de colorir.jpeg" alt="lapis de Colorir " style="height: 80px;80px"></img>
+                </td>
+                <td>Lapis de Colorir</td>
+                <td>50</td>
+                <td>1</td>
+                <td>2,50</td>
+            </tr>
+            <tr>
+                <td><img src="../Imagens/fichario.jpeg" alt="Fichario escolar" style="height: 80px;80px"></img>
+                </td>
+                <td>fichario escolar</td>
+                <td>100</td>
+                <td>25,90</td>
+                <td>20,99</td>
+            </tr>
+            <tr>
+                <td><img src="../Imagens/giz de cera.jpeg" alt="Giz de cera" style="height: 80px;80px"></img>
+                </td>
+                <td>Giz de cera</td>
+                <td>100</td>
+                <td>10,00</td>
+                <td>5,00</td>
+            </tr>
+            <tr>
+                <td><img src="../Imagens/canetas.jpeg" alt="caneta" style="height: 80px;80px"></img>
+                </td>
+                <td>Canetas</td>
+                <td>100</td>
+                <td>10,50</td>
+                <td>5,00</td>
+            </tr>
+        </table>
+    </center>
+</body>
+
+</html>
