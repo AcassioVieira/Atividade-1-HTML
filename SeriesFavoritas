@@ -1,0 +1,59 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Séries Maravilindas</title>
+</head>
+
+        <header><font size=4><b>Top 5 séries 🎬 </b></header></font>
+
+<body>
+    <ul type="circle">
+    <li><h1><font color = #223A97>The Witcher</h1></font></li>
+    <img src ="https://files.tecnoblog.net/wp-content/uploads/2020/01/the-witcher-netflix-700x441.jpg" alt= "bruxao brabo" style="height: 400px;"/>
+    <p> Essa série conta a história de um bruxão brabo e cabeça dura que só arruma problema pra cabeça.<br/>
+    Quanto mais ele foge de problema, mais eles aparecem.<br/>
+    E tem a personagem mais perfeita que é a Yennefer. Vale a pena assistir só porque ela existe.<br/>
+    Uma série incrível pra quem curte fantasia e RPG.</p><br/>
+
+   
+    <li><h2><font color = #223A97>The Last of Us</h2></font></li>
+    <img src ="https://t.ctcdn.com.br/sdamWgFoCZNnMz7X25oOy_Kkv64=/720x405/smart/filters:format(webp)/i674198.jpeg" alt= "corre dos zumbi" style="height: 350px;"/>
+    <p>Essa série conta a história do Joel, um cara muito daora que tem uma vida sofrida.<br/>
+    E aí aparece a Ellie na vida dele. E tudo faz mais sentido.<br/>
+    Uma série incrível, realmente emocionante. Várias histórias paralelas muito bem construídas.<br/>
+    E óbvio, tem os zumbis. A cereja do bolo.</p><br/>
+
+    
+    <li><h3><font color = #223A97>The English </h3></font></li>
+    <img src ="https://www.infinitividades.com.br/wordpress/wp-content/uploads/2023/02/theenglish3-1024x538.jpg" alt= "mini serie braba" style="height: 350px;"/>
+    <p>Acho que só eu assisti essa mini série. Mas de verdade, ela é a minha favorita.<br/>
+    Conta a história de uma mulher fortíssima e de um índio BRABO.</br>
+    Eu não posso falar muito, só dizer que amo essa série do fundo do coração.<br/>
+    Uma série ótima pra quem histórias fortes, ação, tiro, porrada e bomba.</p><br/>
+
+
+    <li><h4><font color = #223A97>Prison Break </h4></font></li>
+    <img src ="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2023/03/prison-break-800x467.jpg" alt= "old and gold" style="height: 350px;"/>
+    <p>Pô, quem não conhece essa série, né? Se você não conhece: tá perdendo.<br/>
+    Michael entra na prisão por conta própria pra tirar de lá. Mas não é tão simples.<br/>
+    Essa série é o suco do licor dos deuses.<br/>
+    Ótima série pra quem curte investigação criminal, ação e doidera.</p><br/>
+
+
+    <li><h5><font color = #223A97>New Girl </h5></font></li>
+    <img src ="https://blogs.correiobraziliense.com.br/proximocapitulo/wp-content/uploads/sites/27/2018/05/final-new-girl-550x298.jpg" alt= "new girl" style="height: 350px;"/>
+    <p>Série fofinha só pra dar uma quebrada nessa lista.<br/>
+    Essa aqui conta a história da Jess, uma mulher maravilhosa que decide dividir AP com uns caras doidos.<br/>
+    Ela tem episódios bem curtinhos e tem uma história com personagens inesquecíveis.<br/>
+    Ótima série pra quem curte romance e comédia!</p><br/></ul>
+</body>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<footer>
+    <p><b><font size=2>Acassio Fonseca</p></b></font>
+    <p><a href="https://www.linkedin.com/in/acassiovieira/" target="_blank" >Clica aqui </a></p>
+</footer>
+</html>
